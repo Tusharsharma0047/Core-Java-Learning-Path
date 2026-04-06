@@ -11,8 +11,8 @@ Welcome to my Java learning journey! I am currently following the **Code With Ha
 | Day | Topic | Status | Links |
 | :--- | :--- | :--- | :--- |
 | 01 | Introduction & Environment Setup | ✅ Done |[View Code](./Chapter-01/)|
-| 02 | Variables & Data Types | 🏗️ Next | - |
-
+| 02 | Variables & Data Types | ✅ Done  |[View Code](./Chapter-02/SumUser.java)  |
+| 03 | Question Of Chapter 1 | 🏗️ Next | - |
 ## 🛠️ Tech Stack
 * **Language:** Java 
 * **IDE:** VS Code / IntelliJ IDEA
