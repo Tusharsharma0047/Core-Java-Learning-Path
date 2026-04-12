@@ -15,7 +15,8 @@ Welcome to my Java learning journey! I am currently following the **Code With Ha
 | 03 | Questions Of Chapter 1 | ✅ Done | [View Folder](./Chapter-01/PracticeSet/) |
 | 04| Operators And Expressions|✅ Done  | [View Notes](./Chapter-02/Operators_Notes.md) |
 | 05 | Chapter 2 Question(Operators And Expressions) | ✅ Done | [View Practice](./Chapter-02/)|
-| 06 | Chapter 3 (Strings) |🏗️ Next| - |
+| 06 | Chapter 3 (Strings) |⏳ In Progress| [View Code](./Chapter-03/) |
+| 07 | Chapter 3 (Question) | 🏗️ Next | :--- |
 ## 🛠️ Tech Stack
 * **Language:** Java 
 * **IDE:** VS Code / IntelliJ IDEA
