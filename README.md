@@ -19,7 +19,7 @@ Welcome to my Java learning journey! I am currently following the **Code With Ha
 | 07 | Chapter-03 (Questions) | ✅ Done | [View Folder](./Chapter-03/) |
 | 08| Chapter-04 (Conditionals In Java) | ✅ Done | [View Folder](./Chapter-04/) |
 | 09| Chapter-04 (Conditionals In Java) | ✅ Done | [View Code](./Chapter-04/Operator.java) |
-| 10 | Chapter-04 (Questions)| 🏗️ Next | -- |
+| 10 | Chapter-04 (Questions)| 🏗️ Next | --- |
 ## 🛠️ Tech Stack
 * **Language:** Java 
 * **IDE:** VS Code / IntelliJ IDEA
